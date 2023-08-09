@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src ="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/278/649/datas/original.GIF">
+<img  align ="right" alt ="Coding"  src ="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/278/649/datas/original.GIF">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
