@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align ="right" alt ="Coding"  src ="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/278/649/datas/original.GIF">
 <h3 align="left">Connect with me:</h3>
-<p align="left">mail: b.aarjya@gmail.com</p>
-<p align="left">mobile: 6370666762 (currently lost so no calls, whatsapps only)</p>
+<p align="left"><b>mail</b>: b.aarjya@gmail.com</p>
+<p align="left"><b>mobile</b>: 6370666762 (currently lost so no calls, whatsapps only)</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
